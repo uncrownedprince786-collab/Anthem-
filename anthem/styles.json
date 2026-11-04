@@ -1,0 +1,143 @@
+{
+  "trance": {
+    "label": "Uplifting Trance",
+    "prompt": "uplifting trance, 138 BPM, supersaw lead, rolling offbeat bassline, euphoric breakdown, long emotional build, sidechain pumping, airy female vocal, festival mainstage, wide stereo reverb, crisp mix",
+    "negative": "lo-fi, muddy, distorted, off-key, acoustic, country",
+    "bpm": 138,
+    "structure": [
+      "Intro",
+      "Verse",
+      "Build",
+      "Drop",
+      "Breakdown",
+      "Chorus",
+      "Build",
+      "Drop",
+      "Outro"
+    ],
+    "default_length": 200
+  },
+  "progressive": {
+    "label": "Progressive / Melodic House",
+    "prompt": "melodic progressive house, 124 BPM, deep rolling bass, hypnotic arpeggio, warm analog pads, slow hypnotic build, emotional male vocal, Anjunadeep style, polished club mix",
+    "negative": "harsh, lo-fi, distorted, cluttered",
+    "bpm": 124,
+    "structure": [
+      "Intro",
+      "Verse",
+      "Build",
+      "Drop",
+      "Breakdown",
+      "Chorus",
+      "Build",
+      "Drop",
+      "Outro"
+    ],
+    "default_length": 210
+  },
+  "club": {
+    "label": "Party / Club Banger",
+    "prompt": "big room house party anthem, 128 BPM, punchy kick, huge festival drop, catchy vocal hook, energetic male vocal, loud bright mastering, crowd energy, club ready",
+    "negative": "slow, sad, acoustic, ambient, lo-fi",
+    "bpm": 128,
+    "structure": [
+      "Intro",
+      "Verse",
+      "Pre-Chorus",
+      "Drop",
+      "Chorus",
+      "Verse",
+      "Pre-Chorus",
+      "Drop",
+      "Chorus",
+      "Outro"
+    ],
+    "default_length": 180
+  },
+  "techno": {
+    "label": "Melodic Techno",
+    "prompt": "melodic techno, 126 BPM, driving kick, dark hypnotic arpeggio, analog sub bass, tense atmospheric pads, filtered vocal chops, Afterlife style, deep warehouse mix",
+    "negative": "cheerful, pop, acoustic, lo-fi",
+    "bpm": 126,
+    "structure": [
+      "Intro",
+      "Build",
+      "Drop",
+      "Breakdown",
+      "Verse",
+      "Build",
+      "Drop",
+      "Chorus",
+      "Outro"
+    ],
+    "default_length": 220
+  },
+  "smooth": {
+    "label": "Smooth / Late Night",
+    "prompt": "smooth R&B soul, 90 BPM, warm Rhodes piano, silky male vocal, soft brushed drums, mellow sub bass, late night intimate mood, lush reverb, clean warm mix",
+    "negative": "harsh, aggressive, distorted, fast, loud",
+    "bpm": 90,
+    "structure": [
+      "Intro",
+      "Verse",
+      "Chorus",
+      "Verse",
+      "Chorus",
+      "Bridge",
+      "Chorus",
+      "Outro"
+    ],
+    "default_length": 190
+  },
+  "chill": {
+    "label": "Chillout / Lo-fi Ambient",
+    "prompt": "downtempo chillout, 75 BPM, dreamy pads, soft vinyl texture, gentle female vocal, mellow electric piano, relaxed groove, warm analog tape, spacious mix",
+    "negative": "aggressive, loud, fast, harsh",
+    "bpm": 75,
+    "structure": [
+      "Intro",
+      "Verse",
+      "Chorus",
+      "Verse",
+      "Chorus",
+      "Bridge",
+      "Outro"
+    ],
+    "default_length": 200
+  },
+  "hardstyle": {
+    "label": "Hardstyle / Hard Dance",
+    "prompt": "euphoric hardstyle, 150 BPM, distorted reverse bass kick, screeching lead, emotional melodic breakdown, powerful vocal, festival energy, loud aggressive mastering",
+    "negative": "soft, slow, acoustic, mellow",
+    "bpm": 150,
+    "structure": [
+      "Intro",
+      "Verse",
+      "Build",
+      "Drop",
+      "Breakdown",
+      "Chorus",
+      "Build",
+      "Drop",
+      "Outro"
+    ],
+    "default_length": 190
+  },
+  "afro": {
+    "label": "Afro House",
+    "prompt": "afro house, 122 BPM, organic tribal percussion, deep rolling bass, marimba melody, chanted vocal, sunset festival groove, warm percussive mix",
+    "negative": "harsh, distorted, cold, lo-fi",
+    "bpm": 122,
+    "structure": [
+      "Intro",
+      "Verse",
+      "Build",
+      "Drop",
+      "Breakdown",
+      "Chorus",
+      "Drop",
+      "Outro"
+    ],
+    "default_length": 210
+  }
+}

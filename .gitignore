@@ -1,0 +1,9 @@
+# Your own settings, which may hold a server token.
+settings.json
+
+# Generated runs: audio, video and the YouTube text.
+output/*
+!output/.gitkeep
+
+__pycache__/
+*.pyc
